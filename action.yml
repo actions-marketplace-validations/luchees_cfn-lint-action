@@ -1,4 +1,4 @@
-name: "cfn-lint-action"
+name: "cfn-lint-action-brikl"
 description: "Setup Amazon CloudFormation Linter (cfn-lint)"
 branding:
   icon: "terminal"
