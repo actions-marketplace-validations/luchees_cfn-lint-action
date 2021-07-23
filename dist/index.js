@@ -164,8 +164,8 @@ module.exports = {
       "-m",
       "pip",
       "install",
+      "git+https://github.com/luchees/cfn-lint.git@brikl",
       "--upgrade",
-      `cfn-lint==${version}`,
     ]);
 
     // Symlink from separate directory so only CFN LINT CLI is added to PATH
